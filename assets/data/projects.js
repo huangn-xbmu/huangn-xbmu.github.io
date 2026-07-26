@@ -48,7 +48,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / 字幕包装 / 音画设计",
     tags: ["剧情剪辑", "广告创意", "节奏控制"],
     cover: "assets/images/video-toast.jpg",
-    media: { type: "video", poster: "assets/images/video-toast.jpg", src: "assets/videos/toast.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-toast.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1jjgX6BEgy&page=1"}
   },
   {
     id: "learning-imprint",
@@ -61,7 +61,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / After Effects",
     tags: ["课程总结", "作品混剪", "结构剪辑"],
     cover: "assets/images/video-learning.jpg",
-    media: { type: "video", poster: "assets/images/video-learning.jpg", src: "assets/videos/learning.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-learning.jpg", src: "", embedUrl: "" }
   },
 
   {
@@ -75,7 +75,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / AI图像素材 / 调色",
     tags: ["地方文化", "AI影像", "氛围剪辑"],
     cover: "assets/images/video-grottoes.jpg",
-    media: { type: "video", poster: "assets/images/video-grottoes.jpg", src: "assets/videos/grottoes.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-grottoes.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1oZgX6zEP2&page=1" }
   },
   {
     id: "first-day-mv",
@@ -88,7 +88,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / 字幕动画",
     tags: ["MV", "音乐字幕", "音画同步"],
     cover: "assets/images/video-mv.jpg",
-    media: { type: "video", poster: "assets/images/video-mv.jpg", src: "assets/videos/mv.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-mv.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1wmgX67E7e&page=1" }
   },
 
   {
@@ -102,7 +102,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / After Effects",
     tags: ["关键帧", "图像动画", "转场"],
     cover: "assets/images/video-scroll.jpg",
-    media: { type: "video", poster: "assets/images/video-scroll.jpg", src: "assets/videos/scroll.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-scroll.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1kmgX67EV8&page=1" }
   },
   {
     id: "book-recommendation",
@@ -115,7 +115,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / Photoshop",
     tags: ["知识视频", "信息包装", "口播剪辑"],
     cover: "assets/images/video-reading.jpg",
-    media: { type: "video", poster: "assets/images/video-reading.jpg", src: "assets/videos/reading.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-reading.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1FQgX6yEM2&page=1" }
   },
   {
     id: "four-seasons",
@@ -128,20 +128,20 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / Lumetri",
     tags: ["风景片", "调色", "氛围"],
     cover: "assets/images/video-seasons.jpg",
-    media: { type: "video", poster: "assets/images/video-seasons.jpg", src: "assets/videos/seasons.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-seasons.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1jjgX6BE4a&page=1" }
   },
   {
     id: "transition-effects",
     category: "视频剪辑",
     year: "2026",
-    title: "转场与视觉效果",
+    title: "邕江宣传片",
     subtitle: "基础后期技能训练",
     summary: "围绕遮罩、抠像、圆形转场、光效、字幕条与基础合成进行短镜头练习，形成可复用的后期技能库。",
     role: "效果制作、参数调试、练习整合",
     tools: "Premiere Pro / After Effects",
     tags: ["遮罩", "抠像", "视觉效果"],
     cover: "assets/images/video-effects.jpg",
-    media: { type: "video", poster: "assets/images/video-effects.jpg", src: "assets/videos/effects.mp4", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-effects.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1EGgX63Eqw&page=1" }
   },
 
   {
