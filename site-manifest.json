@@ -1,0 +1,19 @@
+{
+  "project": "黄楠｜新闻学与视觉叙事作品集（视频专区更新版）",
+  "entry": "index.html",
+  "editable_data": "assets/data/projects.js",
+  "project_count": 15,
+  "video_interfaces": [
+    "mp4 src",
+    "iframe embedUrl",
+    "article long image"
+  ],
+  "video_project_count": 8,
+  "video_frontend": [
+    "dark showcase section",
+    "sticky account proof",
+    "two-column video cards",
+    "MP4/embed player dialog",
+    "missing-file fallback"
+  ]
+}
