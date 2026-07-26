@@ -61,7 +61,7 @@ window.PORTFOLIO_PROJECTS = [
     tools: "Premiere Pro / After Effects",
     tags: ["课程总结", "作品混剪", "结构剪辑"],
     cover: "assets/images/video-learning.jpg",
-    media: { type: "video", poster: "assets/images/video-learning.jpg", src: "", embedUrl: "" }
+    media: { type: "video", poster: "assets/images/video-learning.jpg", src: "", embedUrl: "https://player.bilibili.com/player.html?bvid=BV1owgd6yEAw&page=1" }
   },
 
   {
